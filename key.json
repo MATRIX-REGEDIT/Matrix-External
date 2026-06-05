@@ -28,6 +28,13 @@
       "isBanned": false,
       "banReason": "",
       "userRank": "Paid User"
+    },
+    "Matrix": {
+      "hwid": "98C3379E86ED1245",
+      "expireDate": "2026-07-05",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Owner"
     }
   }
 }
